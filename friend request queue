@@ -1,5 +1,3 @@
-package DataStructureProject;
-
 public class FriendRequestQueue {
     private FriendRequest[] queue;
     private int front, rear, capacity, size;
