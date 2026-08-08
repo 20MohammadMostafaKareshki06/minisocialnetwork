@@ -1,5 +1,3 @@
-package DataStructureProject;
-
 public class FriendRequest {
     String toUser;
     String fromUser;
